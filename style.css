@@ -62,3 +62,6 @@
         .d-ul  li{
            border: 1px solid rgb(86, 86, 86);
         }
+        main{
+            text-align: center;
+        }
